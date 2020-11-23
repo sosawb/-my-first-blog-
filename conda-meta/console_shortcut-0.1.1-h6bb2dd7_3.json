@@ -1,0 +1,51 @@
+{
+  "arch": "x86_64",
+  "build": "h6bb2dd7_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\user\\Anaconda3\\pkgs\\console_shortcut-0.1.1-h6bb2dd7_3",
+  "features": "",
+  "files": [
+    "Menu/Iconleak-Atrous-Console.ico",
+    "Menu/console_shortcut.json"
+  ],
+  "fn": "console_shortcut-0.1.1-h6bb2dd7_3.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\user\\Anaconda3\\pkgs\\console_shortcut-0.1.1-h6bb2dd7_3",
+    "type": 1
+  },
+  "md5": "0a7aa904e1921b5e62f4e72f5d3ab5bd",
+  "name": "console_shortcut",
+  "package_tarball_full_path": "C:\\Users\\user\\Anaconda3\\pkgs\\console_shortcut-0.1.1-h6bb2dd7_3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Menu/Iconleak-Atrous-Console.ico",
+        "path_type": "hardlink",
+        "sha256": "92183372a2d388578c5c7b9d72c7b4c1aaccd9078ec44fd12b500777026a3395",
+        "sha256_in_prefix": "92183372a2d388578c5c7b9d72c7b4c1aaccd9078ec44fd12b500777026a3395",
+        "size_in_bytes": 432254
+      },
+      {
+        "_path": "Menu/console_shortcut.json",
+        "path_type": "hardlink",
+        "sha256": "99628caf708fd83638b3422250d3fb7470775339d1a21300210c48c7265e04cd",
+        "sha256_in_prefix": "99628caf708fd83638b3422250d3fb7470775339d1a21300210c48c7265e04cd",
+        "size_in_bytes": 351
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::console_shortcut==0.1.1=h6bb2dd7_3",
+  "subdir": "win-64",
+  "timestamp": 1508251301735,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/console_shortcut-0.1.1-h6bb2dd7_3.tar.bz2",
+  "version": "0.1.1"
+}
